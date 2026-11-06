@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/Live_Project-Way_to_City-emerald?style=for-the-badge&logo=vercel&logoColor=white)](https://way-to-city.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Recep_Eren_Durgut-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/recep-eren-durgut/)
-[![Email](https://img.shields.io/badge/Email-recep.durgut%40boun.edu.tr-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recep.durgut@boun.edu.tr)
+[![Email](https://img.shields.io/badge/Email-reddurgut%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:recep.durgut@boun.edu.tr)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=180&section=header&text=Building%20Intelligent%20Transit%20%26%20Software%20Systems&fontSize=28&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
