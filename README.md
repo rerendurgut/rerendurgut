@@ -112,13 +112,13 @@ I am an **Industrial Engineer** and **Transportation Systems Specialist** who bu
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏭 <a href="https://github.com/rerendurgut/mrp-production-system">MRP & Production Planning System</a></h3>
+      <h3 align="center">🚲 <a href="https://github.com/rerendurgut/bursa-bike-suitability">Bursa Bicycle Suitability GIS</a></h3>
       <p align="center">
-        <b>📦 SQL BOM Engine & Interactive Dashboard</b>
+        <a href="https://rerendurgut.github.io/bursa-bike-suitability/"><b>🗺️ Interactive Slides &amp; Topographic Modeling (BME MSc)</b></a>
       </p>
-      <p>Enterprise Material Requirements Planning engine featuring recursive SQL stored procedures for multi-level Bill of Materials (BOM) decomposition, real-time trigger synchronization, and a Python Streamlit monitoring interface.</p>
+      <p>Spatial analysis pipeline integrating OpenStreetMap highway vectors with SRTM 30m DEM elevation rasters across <b>75,000+ road segments</b> in Bursa. Discretizes vertices at 100m fixed intervals, derives longitudinal slopes, and classifies municipal cycling suitability.</p>
       <p>
-        <code>SQL</code> <code>MySQL</code> <code>Database Triggers</code> <code>Python</code> <code>Streamlit</code> <code>ERP</code>
+        <code>QGIS</code> <code>SRTM DEM</code> <code>OpenStreetMap</code> <code>Spatial Analysis</code> <code>GeoPandas</code> <code>Urban Planning</code>
       </p>
     </td>
   </tr>
