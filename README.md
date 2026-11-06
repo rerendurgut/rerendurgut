@@ -3,6 +3,7 @@
 # Hi there, I'm Recep Eren Durgut 👋
 ### AI-Augmented Builder & Industrial / Mobility Systems Specialist
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rerendurgut.github.io-5ab9fc?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rerendurgut.github.io)
 [![Website](https://img.shields.io/badge/Live_Project-Way_to_City-emerald?style=for-the-badge&logo=vercel&logoColor=white)](https://way-to-city.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Recep_Eren_Durgut-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/recep-eren-durgut/)
 [![Email](https://img.shields.io/badge/Email-redurgut%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddurgut@gmail.com)
