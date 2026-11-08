@@ -24,8 +24,8 @@ I am an **Industrial Engineer** and **Transportation Systems Specialist** who bu
 > **Transparency First:** I do not claim to manually hand-craft every line of CSS or frontend boilerplate from scratch. Instead, I combine my **engineering domain knowledge** (Operations Research, mathematical modeling, urban transit algorithms, and GIS) with **autonomous AI coding agents and LLM tooling** to architect, direct, test, and ship production-ready applications end-to-end.
 
 - 🎓 **Academic Background:**
-  - **M.Sc. in Transportation Engineering & Smart Mobility** — Budapest University of Technology and Economics (**BME**) *(2024 – Present)*
-  - **B.Sc. in Industrial Engineering** — Boğaziçi University (**BOUN**) *(2019 – 2024)*
+  - **M.Sc. in Transportation Engineering & Smart Mobility** — Budapest University of Technology and Economics (**BME**) *(2025 – 2027 Expected)*
+  - **B.Sc. in Industrial Engineering** — Boğaziçi University (**BOUN**) *(2019 – 2025)*
 - 🤖 **Agentic Engineering & Product Building:**
   - Leveraging AI agent frameworks, advanced prompt engineering, and LLM-assisted workflows to build and iterate on complex software.
   - Designing system architectures, database schemas, and data pipelines, then directing AI agents to execute and implement full-stack code.
